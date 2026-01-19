@@ -1,5 +1,8 @@
 # Traffic Analysis and Prediction using Spark and Big Data Algorithms
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Big--Data--Traffic--Analysis--Project-black?logo=github)](https://github.com/teodor2002/Big-Data-Traffic-Analysis-Project)
+
+
 ## Authors
 * **Andreea-Daniela Lupu**
 * **Nechifor Alexandru**
